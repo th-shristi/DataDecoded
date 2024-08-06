@@ -6,7 +6,6 @@ Welcome to the **Data Decoded** series, a comprehensive collection of data-drive
 
 ## Projects
 
-### Current Projects
 1. **Cosmetic and Beauty Industry**
    - Analysis of product name, pricing, and ratings across top brands and websites.
 
